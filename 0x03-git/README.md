@@ -1,1 +1,1 @@
-My first Readmee file of zero day repo
+My first Readme file of zero day repo
